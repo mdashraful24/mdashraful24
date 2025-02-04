@@ -36,7 +36,7 @@
 
 ###
 
-<div align="center">
+<div>
   <h3>Frontend</h3>
   <ul>
     <li>🖥️ <strong>HTML5</strong></li>
