@@ -69,7 +69,7 @@
 
 <h2>Social Links</h2>
 <ul>
-  <li><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="10" height="10" alt="linkedin logo"  /> <a href="https://linkedin.com/in/your-username" target="_blank">LinkedIn</a></li>
+  <li><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="14" height="14" alt="linkedin logo"  /> <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">LinkedIn</a></li>
   <li>🔗 <a href="https://github.com/your-username" target="_blank">GitHub</a></li>
   <li>🐦 <a href="https://twitter.com/your-username" target="_blank">Twitter</a></li>
 </ul>
