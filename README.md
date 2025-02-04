@@ -35,9 +35,6 @@
 <h2 align="center">Skills</h2>
 
 ###
-<h2 align="center">Skills</h2>
-
-###
 
 <div align="left">
   <h3>Frontend</h3>
