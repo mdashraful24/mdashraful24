@@ -43,7 +43,6 @@
     <li>🎨 <strong>CSS3</strong></li>
     <li>⚛️ <strong>React.js</strong></li>
     <li>🌀 <strong>Tailwind CSS</strong></li>
-    <li>🌐 <strong>Next.js</strong></li>
   </ul>
 
   <h3>Backend</h3>
