@@ -1,6 +1,8 @@
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/pvhDX8PH/Black-and-White-Geometric-Web-Developer-Business-Card.jpg"  />
+  <img height="500" src="https://i.ibb.co.com/Zp5ghJqL/Black-and-White-Geometric-Web-Developer-Business-Card.jpg"  />
 </div>
+
+###
 
 ###
 
