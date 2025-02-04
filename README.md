@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="600" src="https://i.ibb.co.com/XkDNBcRD/Black-And-Grey-Professional-Technology-Linked-In-Banner-1.png"  />
+  <img height="300" src="https://i.ibb.co.com/XkDNBcRD/Black-And-Grey-Professional-Technology-Linked-In-Banner-1.png"  />
 </div>
 
 ###
@@ -35,41 +35,45 @@
 <h2 align="center">Skills</h2>
 
 ###
+<h2 align="center">Skills</h2>
 
-<div align="center">
+###
+
+<div align="left">
   <h3>Frontend</h3>
-  <ul style="display: inline-block; padding: 0 10px;">
+  <ul>
     <li>🖥️ <strong>HTML5</strong></li>
     <li>🎨 <strong>CSS3</strong></li>
     <li>⚛️ <strong>React.js</strong></li>
     <li>🌀 <strong>Tailwind CSS</strong></li>
+    <li>🌐 <strong>Next.js</strong></li>
   </ul>
 
   <h3>Backend</h3>
-  <ul style="display: inline-block; padding: 0 10px;">
+  <ul>
     <li>🖧 <strong>Node.js</strong></li>
     <li>📦 <strong>Express.js</strong></li>
     <li>🗃️ <strong>MongoDB</strong></li>
   </ul>
 
   <h3>Programming Languages</h3>
-  <ul style="display: inline-block; padding: 0 10px;">
+  <ul>
     <li>💻 <strong>JavaScript</strong></li>
     <li>🔢 <strong>C</strong></li>
     <li>🔣 <strong>C++</strong></li>
   </ul>
 
   <h3>Tools</h3>
-  <ul style="display: inline-block; padding: 0 10px;">
+  <ul>
     <li>🧑‍💻 <strong>Git</strong></li>
     <li>📱 <strong>VS Code</strong></li>
     <li>🌱 <strong>NPM</strong></li>
   </ul>
 
   <h2>Social Links</h2>
-  <ul style="display: inline-block; padding: 0 10px;">
-    <li><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="18" height="18" alt="linkedin logo" /> <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">LinkedIn</a></li>
-    <li><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="18" height="18" alt="facebook logo" /> <a href="https://www.facebook.com/share/19n28FG9HV/" target="_blank">Facebook</a></li>
+  <ul>
+    <li><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="18" height="14" alt="linkedin logo" /> <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">LinkedIn</a></li>
+    <li><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="18" height="14" alt="facebook logo" /> <a href="https://www.facebook.com/share/19n28FG9HV/" target="_blank">Facebook</a></li>
   </ul>
 </div>
 
