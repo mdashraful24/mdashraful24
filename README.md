@@ -32,26 +32,47 @@
 
 ###
 
-<h2 align="center">Things I code with</h2>
+<h2 align="center">Skills</h2>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <h3>Frontend</h3>
+<ul>
+  <li>🖥️ <strong>HTML5</strong></li>
+  <li>🎨 <strong>CSS3</strong></li>
+  <li>⚛️ <strong>React.js</strong></li>
+  <li>🌀 <strong>Tailwind CSS</strong></li>
+  <li>🌐 <strong>Next.js</strong></li>
+</ul>
+
+<h3>Backend</h3>
+<ul>
+  <li>🖧 <strong>Node.js</strong></li>
+  <li>📦 <strong>Express.js</strong></li>
+  <li>🗃️ <strong>MongoDB</strong></li>
+</ul>
+
+<h3>Programming Languages</h3>
+<ul>
+  <li>💻 <strong>JavaScript</strong></li>
+  <li>🔢 <strong>C</strong></li>
+  <li>🔣 <strong>C++</strong></li>
+</ul>
+
+<h3>Tools</h3>
+<ul>
+  <li>🧑‍💻 <strong>Git</strong></li>
+  <li>📱 <strong>VS Code</strong></li>
+  <li>🌱 <strong>NPM</strong></li>
+</ul>
+
+<h2>Social Links</h2>
+<ul>
+  <li>🔗 <a href="https://github.com/your-username" target="_blank">GitHub</a></li>
+  <li>💼 <a href="https://linkedin.com/in/your-username" target="_blank">LinkedIn</a></li>
+  <li>🐦 <a href="https://twitter.com/your-username" target="_blank">Twitter</a></li>
+</ul>
 </div>
 
 ###
