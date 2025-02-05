@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="center">Current Activities</h2>
+<h2 align="center">📚 Current Activities</h2>
 
 ###
 
