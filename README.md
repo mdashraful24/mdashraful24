@@ -49,7 +49,7 @@
 
   <h3>Backend</h3>
   <ul>
-    <li>🖧 <strong>Node.js</strong></li>
+    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /> <strong>Node.js</strong></li>
     <li>📦 <strong>Express.js</strong></li>
     <li>🗃️ <strong>MongoDB</strong></li>
   </ul>
@@ -72,6 +72,7 @@
   <ul>
     <li><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="18" height="14" alt="linkedin logo" /> <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">LinkedIn</a></li>
     <li><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="18" height="14" alt="facebook logo" /> <a href="https://www.facebook.com/share/19n28FG9HV/" target="_blank">Facebook</a></li>
+    <li><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> <a href="https://github.com/mdashraful24" target="_blank">GitHub</a></li>
   </ul>
 </div>
 
