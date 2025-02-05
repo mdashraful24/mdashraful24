@@ -8,7 +8,7 @@
 
 ###
 
-Welcome to my profile!  <br>I'm a final-year Undergraduate B.Sc. Engineering student and a passionate Web Developer. Currently exploring new technologies and building scalable applications. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ashraful-islam-ratul/)!
+Welcome to my profile!  <br>I'm a passionate Web Developer. Currently exploring new technologies. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ashraful-islam-ratul/)!
 
 ###
 
