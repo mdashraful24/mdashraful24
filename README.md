@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.ibb.co.com/Zp5ghJqL/Black-and-White-Geometric-Web-Developer-Business-Card.jpg"  />
+  <img height="500" src="https://i.ibb.co.com/7JKckHmw/github-banner.png"  />
 </div>
 
 ###
@@ -28,7 +28,10 @@
 
 ###
 
-<p align="left">I am exploring Nextjs<br>I'm working on a CaCao (Catering Connects) website making and it is a group work.</p>
+<ul>
+  <li>🚀 I am exploring <strong>Next.js</strong>.</li>
+  <li>🍽️ I'm working on <strong>Catering Connects (CaCao)</strong>, a group project focused on a food catering website.</li>
+</ul>
 
 ###
 
