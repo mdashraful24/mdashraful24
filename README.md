@@ -78,8 +78,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraful-islam-ratul/)
 
 <p><strong>📍 Location:</strong> YKSG-2, DSC, Ashulia, Savar, Dhaka</p>  
-<p><strong>📧 Email:</strong> mdashrafulislam2882@gmail.com</p>  
-<p><strong>📞 Contact:</strong> +880 1728-473593</p> 
+<p><strong>📧 Email:</strong>  <a href="mailto:mdashrafulislam2882@gmail.com">mdashrafulislam2882@gmail.com</a></p> 
+<p><strong>📞 Contact:</strong> <a href="tel:+8801728473593">+880 1728-473593</a></p>
 
 <p align="left">
   Thanks for visiting and I'd love to connect 😊!
