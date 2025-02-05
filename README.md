@@ -47,9 +47,9 @@
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🖥️ Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🛠️ Tools & Platforms
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -77,9 +77,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdashraful24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraful-islam-ratul/)
 
-**📍 Location:** YKSG-2, DSC, Ashulia, Savar, Dhaka  
-**📧 Email:** [mdashrafulislam2882@gmail.com](mailto:mdashrafulislam2882@gmail.com)  
-**📞 Contact:** [+880 1728-473593](tel:+8801728473593)  
+<p><strong>📍 Location:</strong> YKSG-2, DSC, Ashulia, Savar, Dhaka</p>  
+<p><strong>📧 Email:</strong> mdashrafulislam2882@gmail.com</p>  
+<p><strong>📞 Contact:</strong> +880 1728-473593</p> 
 
 <p align="left">
   Thanks for visiting and I'd love to connect 😊!
