@@ -74,8 +74,14 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdashraful24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraful-islam-ratul/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/share/19n28FG9HV/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
 
 <p><strong>📍 Location:</strong> YKSG-2, DSC, Ashulia, Savar, Dhaka</p>  
 <p><strong>📧 Email:</strong>  <a href="mailto:mdashrafulislam2882@gmail.com">mdashrafulislam2882@gmail.com</a></p> 
