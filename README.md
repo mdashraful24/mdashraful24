@@ -8,7 +8,10 @@
 
 ###
 
-<p align="left">Welcome to my profile!  <br>I'm a final-year Undergraduate B.Sc. Engineering student and a passionate Web Developer. Currently exploring new technologies and building scalable applications. Thanks for visiting, and I'd love to connect!</p>
+<ul>
+  <li>🚀 I am exploring <strong>Next.js</strong>.</li>
+  <li>🍽️ I'm working on <strong>Catering Connects (CaCao)</strong>, a group project focused on a food catering website.</li>
+</ul>
 
 ###
 
@@ -28,10 +31,7 @@
 
 ###
 
-<ul>
-  <li>🚀 I am exploring <strong>Next.js</strong>.</li>
-  <li>🍽️ I'm working on <strong>Catering Connects (CaCao)</strong>, a group project focused on a food catering website.</li>
-</ul>
+<p align="left">I am exploring Nextjs<br>I'm working on a CaCao (Catering Connects) website making and it is a group work.</p>
 
 ###
 
@@ -44,29 +44,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-</div>
-
-###
-
-<div align="center">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
