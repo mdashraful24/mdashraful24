@@ -28,7 +28,10 @@
 
 ###
 
-<p align="left">I am exploring Nextjs<br>I'm working on a CaCao (Catering Connects) website making and it is a group work.</p>
+<ul>
+  <li>🚀 I am exploring <strong>Next.js</strong>.</li>
+  <li>🍽️ I'm working on <strong>Catering Connects (CaCao)</strong>, a group project focused on a food catering website.</li>
+</ul>
 
 ###
 
