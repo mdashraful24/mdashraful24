@@ -10,8 +10,7 @@
 
 ###
 
-<p>Welcome to my profile!</p>p>
-<p align="left">I am a Web Developer with expertise in HTML, CSS, JavaScript, React.js, and Tailwind CSS. Currently, I'm mainly learning to use the Next.js framework for full-stack applications. I also have experience building servers using Express.js and MongoDB. Passionate about crafting seamless web applications, I focus on both design and functionality to create user-friendly experiences. I believe in continuous learning-every day presents an opportunity to improve and explore new technologies.</p>
+<p align="left">Welcome to my profile! <br> I am a Web Developer with expertise in HTML, CSS, JavaScript, React.js, and Tailwind CSS. Currently, I'm mainly learning to use the Next.js framework for full-stack applications. I also have experience building servers using Express.js and MongoDB. Passionate about crafting seamless web applications, I focus on both design and functionality to create user-friendly experiences. I believe in continuous learning-every day presents an opportunity to improve and explore new technologies.</p>
 
 ###
 
@@ -92,5 +91,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
+
+Thanks for visiting and I'd love to connect!
 
 ###
