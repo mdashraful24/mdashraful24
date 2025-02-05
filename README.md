@@ -6,17 +6,14 @@
 
 <h1 align="center">Hi I'm Ashraful Islam Ratul👋</h1>
 
-###
-
-Welcome to my profile!  <br>I'm a passionate Web Developer. Currently exploring new technologies. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ashraful-islam-ratul/)!
-
-###
-
 <h2 align="center">About me</h2>
 
 ###
 
+Welcome to my profile!  <br>
 <p align="left">I am a Web Developer with expertise in HTML, CSS, JavaScript, React.js, and Tailwind CSS. Currently, I'm mainly learning to use the Next.js framework for full-stack applications. I also have experience building servers using Express.js and MongoDB. Passionate about crafting seamless web applications, I focus on both design and functionality to create user-friendly experiences. I believe in continuous learning-every day presents an opportunity to improve and explore new technologies.</p>
+
+Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/ashraful-islam-ratul/)!
 
 ###
 
