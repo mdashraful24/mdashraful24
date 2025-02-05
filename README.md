@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I am skilled in HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, MongoDB, and Express.js. Currently, I am focused on learning and mastering the Next.js framework for full-stack applications. I also have hands-on experience building servers using Express.js and MongoDB. Passionate about crafting seamless web applications, I prioritize both design and functionality to create user-friendly experiences. I believe in continuous learning, as every day offers new opportunities to improve and explore emerging technologies.</p>
+<p align="left">I am a skilled web developer in HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, MongoDB, and Express.js. Currently, I am focused on learning and mastering the Next.js framework for full-stack applications. I also have hands-on experience building servers using Express.js and MongoDB. Passionate about crafting seamless web applications, I prioritize both design and functionality to create user-friendly experiences. I believe in continuous learning, as every day offers new opportunities to improve and explore emerging technologies.</p>
 
 ###
 
