@@ -4,8 +4,6 @@
 
 ###
 
-###
-
 <h1 align="center">Hi I'm Ashraful Islam Ratul👋</h1>
 
 ###
@@ -34,46 +32,38 @@
 
 ###
 
-<h2 align="center">Skills</h2>
+<h2 align="center">Things I code with</h2>
 
 ###
 
-<div align="left">
-  <h3>Frontend</h3>
-  <ul>
-    <li>🖥️ <strong>HTML5</strong></li>
-    <li>🎨 <strong>CSS3</strong></li>
-    <li>⚛️ <strong>React.js</strong></li>
-    <li>🌀 <strong>Tailwind CSS</strong></li>
-  </ul>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+</div>
 
-  <h3>Backend</h3>
-  <ul>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /> <strong>Node.js</strong></li>
-    <li>📦 <strong>Express.js</strong></li>
-    <li>🗃️ <strong>MongoDB</strong></li>
-  </ul>
+###
 
-  <h3>Programming Languages</h3>
-  <ul>
-    <li>💻 <strong>JavaScript</strong></li>
-    <li>🔢 <strong>C</strong></li>
-    <li>🔣 <strong>C++</strong></li>
-  </ul>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+</div>
 
-  <h3>Tools</h3>
-  <ul>
-    <li>🧑‍💻 <strong>Git</strong></li>
-    <li>📱 <strong>VS Code</strong></li>
-    <li>🌱 <strong>NPM</strong></li>
-  </ul>
+###
 
-  <h2>Social Links</h2>
-  <ul>
-    <li><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="18" height="14" alt="linkedin logo" /> <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">LinkedIn</a></li>
-    <li><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="18" height="14" alt="facebook logo" /> <a href="https://www.facebook.com/share/19n28FG9HV/" target="_blank">Facebook</a></li>
-    <li><img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  /> <a href="https://github.com/mdashraful24" target="_blank">GitHub</a></li>
-  </ul>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
@@ -86,6 +76,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mdashraful24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdashraful24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=mdashraful24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="center">Contact with me</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/share/19n28FG9HV/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
