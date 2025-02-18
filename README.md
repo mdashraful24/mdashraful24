@@ -63,10 +63,11 @@
 ###
 
 <div align="center">
-  ![Ashraful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdashraful24&show_icons=true&theme=dracula&count_private=true&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=dracula&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=dracula&hide_border=false)
+  <!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=mdashraful24&show_icons=true&theme=dracula&count_private=true&hide_border=false" alt="Ashraful's GitHub Stats">
 
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=dracula&hide_border=false" alt="Top Languages">
 
   
   <img src="https://github-readme-stats.vercel.app/api?username=mdashraful24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
