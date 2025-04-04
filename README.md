@@ -79,6 +79,18 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/ashraful.islam.ratul2k" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+<!-- <div align="center">
   <a href="https://github.com/mdashraful24" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="52" height="40" alt="github logo"  />
   </a>
@@ -88,7 +100,7 @@
   <a href="https://www.facebook.com/share/19n28FG9HV/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-</div>
+</div> -->
 
 <p><strong>📍 Location:</strong> YKSG-2, DSC, Ashulia, Savar, Dhaka</p>  
 <p><strong>📧 Email:</strong>  <a href="mailto:mdashrafulislam2882@gmail.com">mdashrafulislam2882@gmail.com</a></p> 
