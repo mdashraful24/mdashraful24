@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024.<br>📚 I'm currently learning the Next.js framework.<br>🎯 Goals: I strive to create web applications that simplify and enhance everyday life.<br>🎲 Fun fact: I love Travelling to new places.</p>
+<p align="left">✨ Creating bugs since 2024.<br>📚 I'm currently learning the Next.js framework.<br>🎯 Goals: I strive to create web applications that simplify and enhance everyday life.<br>🎲 Fun fact: I love travelling to new places.</p>
 
 ###
 
@@ -26,7 +26,8 @@
 
 <ul>
   <li>🚀 I am exploring <strong>Next.js</strong>.</li>
-  <li>🍽️ I'm working on <strong>Catering Connects (CaCao)</strong>, a group project focused on a food catering website.</li>
+<!--   <li>🍽️ I'm working on <strong>Catering Connects (CaCao)</strong>, a group project focused on a food catering website.</li> -->
+  <li>🍽️ I'm working on my capstone project, <strong>Smart Mentoring System (SMS)</strong>, a group project focused on a smart mentoring website.</li>
 </ul>
 
 ###
