@@ -25,7 +25,8 @@
 ###
 
 <ul>
-  <li>🚀 I am exploring <strong>Next.js</strong>.</li>
+  <li>🚀 I am exploring <strong>PostgreSQL</strong>.</li>
+<!--   <li>🚀 I am exploring <strong>Next.js</strong>.</li> -->
 <!--   <li>🍽️ I'm working on <strong>Catering Connects (CaCao)</strong>, a group project focused on a food catering website.</li> -->
   <li>🍽️ I'm working on my capstone project, <strong>Smart Mentoring System (SMS)</strong>, a group project focused on a smart mentoring website.</li>
 </ul>
