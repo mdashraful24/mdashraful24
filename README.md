@@ -86,7 +86,11 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraful-islam-ratul/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ashraful.islam.ratul2k)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me)
+
+<!-- <div align="center">
   <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -96,7 +100,7 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</div>
+</div> -->
 
 <!-- <div align="center">
   <a href="https://github.com/mdashraful24" target="_blank">
