@@ -25,7 +25,7 @@
 ###
 
 <ul>
-  <li>🚀 I am exploring <strong>PostgreSQL</strong>.</li>
+  <li>🚀 I am exploring <strong>PostgreSQL</strong>, <strong>Authentication with Database (without Firebase), etc</strong>.</li>
 <!--   <li>🚀 I am exploring <strong>Next.js</strong>.</li> -->
 <!--   <li>🍽️ I'm working on <strong>Catering Connects (CaCao)</strong>, a group project focused on a food catering website.</li> -->
   <li>🍽️ I'm working on my capstone project, <strong>Smart Mentoring System (SMS)</strong>, a group project focused on a smart mentoring website.</li>
@@ -74,12 +74,8 @@
   </a>
 </div>
 
-<!--<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>-->
-
 <div align="left">
-  <img src="https://profile-counter.glitch.me/mdashraful24/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
