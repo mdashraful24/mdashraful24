@@ -18,6 +18,9 @@
 
 <p align="left">✨ Creating bugs since 2024.<br>📚 I'm currently learning the Next.js framework.<br>🎯 Goals: I strive to create web applications that simplify and enhance everyday life.<br>🎲 Fun fact: I love travelling to new places.</p>
 
+[![Ratul Profile Views](https://github.com/mdashraful24/mdashraful24-profile-views/blob/master/svg/profile/badge.svg)](https://github.com/mdashraful24/mdashraful24-profile-views)
+[![Metrics](https://github.com/mdashraful24/mdashraful24/actions/workflows/metrics.yml/badge.svg)](https://github.com/mdashraful24/mdashraful24/actions/workflows/metrics.yml)
+
 ###
 
 <h2 align="center">📚 Current Activities</h2>
