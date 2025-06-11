@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">Welcome to my profile!</h4> 
+<h4 align="left">Welcome to my profile!🎉</h4> 
 
 <h1 align="center">Hi, my name is Ashraful Islam Ratul👋, and I am a Web Developer.</h1>
 
@@ -119,7 +119,7 @@
 </div> -->
 
 <p><strong>📍 Location:</strong> Dhaka, Bangladesh</p>
-<p><strong>📧 Email:</strong>  <a href="mailto:mdashrafulislam2882@gmail.com">mdashrafulislam2882@gmail.com</a></p> 
+<p><strong>📧 Email:</strong>  <a href="mailto:mdashrafulislam2882@gmail.com">mdashrafulislam2882@gmail.com</a></p>
 <p><strong>📞 Contact:</strong> <a href="tel:+8801728473593">+880 1728-473593</a></p>
 
 <p align="left">
