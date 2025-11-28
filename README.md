@@ -62,6 +62,9 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### 🛠️ Others
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-191970?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+
 ###
 
 <h2 align="center">📊 GitHub Stats</h2>
