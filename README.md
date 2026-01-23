@@ -79,9 +79,6 @@
   <img src="https://nirzak-streak-stats.vercel.app?user=mdashraful24&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
-![](https://raw.githubusercontent.com/mdashraful24/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mdashraful24/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 ###
 
 <div align="left">
@@ -94,6 +91,10 @@
 </div>
 
 ###
+
+### GitHub Statistics:
+![](https://raw.githubusercontent.com/chowdhoury/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/chowdhoury/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <h2 align="center">🌐 Connect with Me</h2>
 
