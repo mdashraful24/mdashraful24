@@ -93,8 +93,8 @@
 ###
 
 ### GitHub Statistics:
-![](https://raw.githubusercontent.com/chowdhoury/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/chowdhoury/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mdashraful24/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mdashraful24/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <h2 align="center">🌐 Connect with Me</h2>
 
