@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024.<br> 📚 I'm currently learning the Next.js framework and TypeScript.<br> 🌱 Continuously learning and exploring modern web technologies<br>🎯 Goals: I strive to create web applications that simplify and enhance everyday life.<br>🎲 Fun fact: I love travelling to new places.</p>
+<p align="left">✨ Creating bugs since 2024.<br> 📚 I'm currently learning the Next.js and TypeScript.<br> 🌱 Continuously learning and exploring modern web technologies<br>🎯 Goals: I strive to create web applications that simplify and enhance everyday life.<br>🎲 Fun fact: I love travelling to new places.</p>
 
 <!--- 👨‍💻 Frontend Web Developer (React.js) | MERN Stack Developer
 🎓 B.Sc. Engineer (New Graduate)
