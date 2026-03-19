@@ -130,7 +130,7 @@
 
 <p><strong>📍 Location:</strong> Dhaka, Bangladesh</p>
 <p><strong>📧 Email:</strong>  <a href="mailto:mdashrafulislam2882@gmail.com">mdashrafulislam2882@gmail.com</a></p>
-<p><strong>📞 Contact (W):</strong> <a href="tel:+8801728473593">+880 1825-532252</a></p>
+<p><strong>📞 Contact (W):</strong> <a href="tel:+8801825532252">+880 1825-532252</a></p>
 
 <p align="left">
   Thanks for visiting, and I'd love to connect 😊!
