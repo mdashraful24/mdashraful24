@@ -133,7 +133,7 @@
 <p><strong>📞 Contact (W):</strong> <a href="tel:+8801825532252">+880 1825-532252</a></p>
 
 <p align="left">
-  Thanks for visiting, and I'd love to connect 😊!
+  Thanks for visiting, and I'd love to connect😊!
 </p>
 
 ###
