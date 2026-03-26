@@ -143,7 +143,7 @@ Send via Gmail ↗
 </p>
 <!-- Contact -->
 <p><strong>📞 Contact:</strong> +880 1825-532252 | 
-<a href="https://wa.me/8801825532252">Open WhatsApp ↗</a>
+<a href="https://wa.me/8801825532252">WhatsApp ↗</a>
 </p>
 
 <!-- <p><strong>📧 Email:</strong>  
