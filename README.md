@@ -137,7 +137,7 @@
 <p><strong>📍 Location:</strong> Dhaka, Bangladesh</p>
 <!-- Email -->
 <p><strong>📧 Email:</strong>  
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=new&to=mdashrafulislam2882@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdashrafulislam2882@gmail.com">
 Send via Gmail ↗
 </a>
 </p>
@@ -148,7 +148,7 @@ Send via Gmail ↗
 
 <!-- <p><strong>📧 Email:</strong>  
 <a href="mailto:mdashrafulislam2882@gmail.com">Default Mail</a> | 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdashrafulislam2882@gmail.com">
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new&to=mdashrafulislam2882@gmail.com">
 Gmail</a>
 </p> -->
 <!-- <p><strong>📞 Contact (W):</strong> 
