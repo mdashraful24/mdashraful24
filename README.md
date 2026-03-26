@@ -84,8 +84,6 @@
   
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdashraful24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=dark&hide_border=true&langs_count=10" alt="Top Languages" />
   
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=mdashraful24&theme=dark&hide_border=true" height="150" />
@@ -93,7 +91,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
