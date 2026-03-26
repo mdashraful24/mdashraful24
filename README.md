@@ -132,23 +132,27 @@
   </a>
 </div> -->
 
+
+<!-- Location -->
 <p><strong>📍 Location:</strong> Dhaka, Bangladesh</p>
-<!-- <p><strong>📧 Email:</strong>  <a href="mailto:mdashrafulislam2882@gmail.com">mdashrafulislam2882@gmail.com</a></p> -->
+
+<!-- Email -->
 <p><strong>📧 Email:</strong>  
-<a href="mailto:mdashrafulislam2882@gmail.com">Default Mail</a> | 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdashrafulislam2882@gmail.com">
-Gmail</a>
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=new&to=mdashrafulislam2882@gmail.com">
+Send via Gmail ↗
+</a>
 </p>
 
-<p><strong>📧 Email:</strong>  
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdashrafulislam2882@gmail.com">
-Open in Gmail ↗</a>
-</p>
-
+<!-- Contact -->
 <p><strong>📞 Contact:</strong> +880 1825-532252 | 
 <a href="https://wa.me/8801825532252">Open WhatsApp ↗</a>
 </p>
 
+<!-- <p><strong>📧 Email:</strong>  
+<a href="mailto:mdashrafulislam2882@gmail.com">Default Mail</a> | 
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mdashrafulislam2882@gmail.com">
+Gmail</a>
+</p> -->
 <!-- <p><strong>📞 Contact (W):</strong> 
 <a href="https://wa.me/8801825532252">Chat on WhatsApp</a>
 </p> -->
