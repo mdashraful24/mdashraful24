@@ -135,7 +135,7 @@
 <p><strong>📍 Location:</strong> Dhaka, Bangladesh</p>
 <p><strong>📧 Email:</strong>  <a href="mailto:mdashrafulislam2882@gmail.com">mdashrafulislam2882@gmail.com</a></p>
 <p><strong>📞 Contact:</strong> +880 1825-532252 | 
-<a href="https://wa.me/8801825532252">WhatsApp</a>
+<a href="https://wa.me/8801825532252">Open WhatsApp ↗</a>
 </p>
 
 <!-- <p><strong>📞 Contact (W):</strong> 
