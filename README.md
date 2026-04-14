@@ -87,6 +87,21 @@
   
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com/?user=mdashraful24&theme=dark&hide_border=true" height="150" />
+
+  <table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdashraful24&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=mdashraful24&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 </div>
 
 <!-- ### -->
