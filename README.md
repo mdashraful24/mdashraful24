@@ -82,17 +82,17 @@
   <!-- GitHub Stats -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=mdashraful24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdashraful24&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdashraful24&show_icons=true&theme=dark&hide_border=true" height="160" />
   
   <!-- Top Languages -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdashraful24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  /> -->
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=dark&hide_border=true" height="160" alt="languages graph" />
   
   <!-- GitHub Streak -->
   <!-- <img src="https://streak-stats.demolab.com/?user=mdashraful24&theme=dark&hide_border=true" height="150" /> -->
 
-  <img src="https://streak-stats.demolab.com?user=mdashraful24&theme=dark&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=mdashraful24&theme=dark&hide_border=true" height="160" />
 </div>
 
 <!-- ### -->
