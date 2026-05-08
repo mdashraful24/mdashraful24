@@ -82,27 +82,27 @@
   <!-- GitHub Stats -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=mdashraful24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdashraful24&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdashraful24&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   
   <!-- Top Languages -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdashraful24&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  /> -->
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=tokyonight&hide_border=true" height="150" />
   
   <!-- GitHub Streak -->
   <!-- <img src="https://streak-stats.demolab.com/?user=mdashraful24&theme=dark&hide_border=true" height="150" /> -->
 
-  <img src="https://streak-stats.demolab.com?user=mdashraful24&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=mdashraful24&theme=tokyonight&hide_border=true" height="150" />
 
   <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" height="150" />
  
 
 </div>
 
 <!-- ### -->
 
-<div align="start">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <!-- <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=1a1b26&style=for-the-badge" alt="Profile Views" />
   <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" /> -->
