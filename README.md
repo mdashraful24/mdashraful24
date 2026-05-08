@@ -102,10 +102,10 @@
 
 <!-- ### -->
 
-<div align="center">
+<div align="start">
   <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=1a1b26&style=for-the-badge" alt="Profile Views" />
-  <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=1a1b26&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" /> -->
 </div>
 
 <!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
