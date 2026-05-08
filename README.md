@@ -94,9 +94,9 @@
 
   <img src="https://streak-stats.demolab.com?user=mdashraful24&theme=dark&hide_border=true" height="150" />
 
-<!-- Contribution Graph -->
-
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=dark" height="150" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=night" height="150" />
+ 
 
 </div>
 
