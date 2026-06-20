@@ -88,28 +88,6 @@
 
 ###
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdashraful24&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-<img src="https://streak-stats.demolab.com?user=mdashraful24&theme=tokyonight&hide_border=true" height="165" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" width="100%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight" width="100%" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-
-</div>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 ###
@@ -131,8 +109,8 @@
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" height="150" />
 
-  <!-- GitHub Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight&hide_border=true" height="150" />
+  <!-- GitHub Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight" width="100%" />
  
 
 </div>
