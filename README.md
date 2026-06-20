@@ -88,6 +88,33 @@
 
 ###
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+### 💻 Languages & Statistics
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdashraful24&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=mdashraful24&theme=tokyonight&hide_border=true" height="170" />
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" width="95%" />
+
+### 📋 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight" width="95%" />
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 ###
