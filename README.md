@@ -110,7 +110,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" height="150" />
 
   <!-- GitHub Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyo-night" width="100%" />
  
 
 </div>
