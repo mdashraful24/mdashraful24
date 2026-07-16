@@ -17,7 +17,7 @@
 ###
 
 <p align="left">
-I am a passionate Full Stack Developer specializing in modern web technologies including React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and Prisma.
+I am a passionate Full Stack Developer specializing in modern web technologies including React, Node.js, Express.js, TypeScript, MongoDB, PostgreSQL, and Prisma.
 
 I enjoy building scalable, responsive, and user-friendly web applications that balance clean design with efficient functionality. I continuously explore new technologies and best practices to improve my development skills and deliver better user experiences.
 </p>
@@ -25,11 +25,10 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
 ###
 
 <p align="left">
-✨ Creating bugs since 2024.<br> 
-📚 I'm currently learning the RDBMS.<br> 
+✨ Creating bugs since 2024.<br>
 🎓 B.Sc. in Information and Communication Engineering (ICE) <br>
 🌱 Currently learning and exploring Next.js, and Prisma ORM<br>
-⚡ Building scalable full-stack applications with clean code and optimized performance.
+⚡ Building scalable full-stack applications with clean code and optimized performance.<br>
 🎯 Goal: Develop impactful software that solves real-world problems <br>
 🌍 Fun Fact: I love traveling and exploring new places
 </p>
@@ -60,7 +59,7 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<!-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
