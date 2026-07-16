@@ -2,21 +2,37 @@
   <img height="500" src="https://drive.google.com/uc?export=view&id=1CSjWQv2eJyp3DwR6xnbcVydqyqRI-tvv" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+%26+PERN+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Prisma;MongoDB+%26+PostgreSQL;Building+Scalable+Web+Applications" />
+</p>
+
 ### 
 
 <h3 align="left">Welcome to my profile!🎉</h3>
 
-<h1 align="center">Hi, my name is Ashraful Islam Ratul👋, and I am a Web Developer.</h1>
+<h1 align="center">Hi, my name is Ashraful Islam Ratul👋, and I am a Full Stack Developer.</h1>
 
 <h2 align="center">About me</h2>
 
 ###
 
-<p align="left">I am a skilled web developer in HTML, CSS, JavaScript, React.js, Tailwind CSS, Node.js, MongoDB, and Express.js. Currently, I am focused on learning and mastering the Next.js framework for full-stack applications. I also have hands-on experience building servers using Express.js and MongoDB. Passionate about crafting seamless web applications, I prioritize both design and functionality to create user-friendly experiences. I believe in continuous learning, as every day offers new opportunities to improve and explore emerging technologies.</p>
+<p align="left">
+I am a passionate Full Stack Developer specializing in modern web technologies including React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, and Prisma.
+
+I enjoy building scalable, responsive, and user-friendly web applications that balance clean design with efficient functionality. I continuously explore new technologies and best practices to improve my development skills and deliver better user experiences.
+</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2024.<br> 📚 I'm currently learning the RDBMS.<br> 🌱 Continuously learning and exploring modern web technologies<br>🎯 Goals: I strive to create web applications that simplify and enhance everyday life.<br>🎲 Fun fact: I love travelling to new places.</p>
+<p align="left">
+✨ Creating bugs since 2024.<br> 
+📚 I'm currently learning the RDBMS.<br> 
+🎓 B.Sc. in Information and Communication Engineering (ICE) <br>
+🌱 Currently learning and exploring Next.js, and Prisma ORM<br>
+⚡ Building scalable full-stack applications with clean code and optimized performance.
+🎯 Goal: Develop impactful software that solves real-world problems <br>
+🌍 Fun Fact: I love traveling and exploring new places
+</p>
 
 <!--- 👨‍💻 Frontend Web Developer (React.js) | MERN Stack Developer
 🎓 B.Sc. Engineer (New Graduate)
@@ -31,16 +47,12 @@
 
 <h2 align="center">📚 Current Activities</h2>
 
-###
-
 <ul>
-  <li>🚀 I am exploring <strong>PostgreSQL</strong>, <strong>Authentication with Database (without Firebase), etc</strong>.</li>
-<!--   <li>🚀 I am exploring <strong>Next.js</strong>.</li> -->
-<!--   <li>🍽️ I'm working on <strong>Catering Connects (CaCao)</strong>, a group project focused on a food catering website.</li> -->
-  <li>🔨 I'm working on my capstone project, <strong>Smart Mentoring System (SMS)</strong>, a group project focused on a smart mentoring website.</li>
+  <li>🚀 Exploring <strong>Next.js</strong>, <strong>Prisma ORM</strong>, and advanced authentication systems.</li>
+  <li>🗄️ Improving my skills in <strong>PostgreSQL</strong> and relational database design.</li>
+  <li>💼 Working on a <strong>paid portfolio project</strong> for a client.</li>
+  <li>🔨 Developing <strong>Smart Mentoring System (SMS)</strong>, a capstone group project focused on smart mentoring and collaboration.</li>
 </ul>
-
-###
 
 ###
 
@@ -48,39 +60,40 @@
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![daisyUI](https://img.shields.io/badge/daisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-### ⚙️ Backend
+### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 📦 Libraries & State Management
+### 📦 API & State Management
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 
-### 🖥️ Programming Languages
+### 🖥️ Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![NVM](https://img.shields.io/badge/NVM-539E43?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📃 Others
