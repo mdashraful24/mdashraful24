@@ -142,7 +142,7 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
   </table>
  
   <!-- GitHub Profile Summary -->
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" width="100%" height="195" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" width="100%" height="90%" />
 
 </div>
 
