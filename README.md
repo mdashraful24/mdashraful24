@@ -111,11 +111,11 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
     <tr>
       <!-- Top Languages -->
       <td align="center" valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=tokyonight&hide_border=true" width="495" height="195" />
       </td>
       <!-- GitHub Stats -->
       <td align="center" valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdashraful24&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdashraful24&show_icons=true&theme=tokyonight&hide_border=true" width="495" height="195" />
       </td>
     </tr>
   </table>
@@ -132,17 +132,17 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
     <tr>
       <!-- GitHub Streak -->
       <td align="center" valign="top">
-       <img src="https://streak-stats.demolab.com?user=mdashraful24&theme=tokyonight&hide_border=true" height="150" />
+       <img src="https://streak-stats.demolab.com?user=mdashraful24&theme=tokyonight&hide_border=true" width="495" height="195" />
       </td>
       <!-- Contribution Graph -->
       <td align="center" valign="top">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" height="150" />
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight&hide_border=true" width="495" height="195" />
       </td>
     </tr>
   </table>
  
   <!-- GitHub Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight&hide_border=true" width="70%" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" width="70%" />
 
 </div>
 
