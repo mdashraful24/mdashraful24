@@ -2,27 +2,8 @@
   <img height="500" src="https://drive.google.com/uc?export=view&id=1CSjWQv2eJyp3DwR6xnbcVydqyqRI-tvv" />
 </div>
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+%26+PERN+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Express.js+%7C+Prisma;MongoDB+%26+PostgreSQL;Building+Scalable+Web+Applications" />
-</p> -->
-
 <p align="center">
-  <picture>
-    <!-- Dark theme -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+%26+PERN+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Express.js+%7C+Prisma;MongoDB+%26+PostgreSQL;Building+Scalable+Web+Applications"
-    />
-    <!-- Light theme -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0000FF&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+%26+PERN+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Express.js+%7C+Prisma;MongoDB+%26+PostgreSQL;Building+Scalable+Web+Applications"
-    />
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+%26+PERN+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Express.js+%7C+Prisma;MongoDB+%26+PostgreSQL;Building+Scalable+Web+Applications"
-      alt="Typing SVG"
-    />
-  </picture>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+%26+PERN+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Express.js+%7C+Prisma;MongoDB+%26+PostgreSQL;Building+Scalable+Web+Applications" />
 </p>
 
 ### 
