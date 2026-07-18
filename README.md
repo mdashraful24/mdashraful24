@@ -100,7 +100,7 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
 
 ###
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats & Graph</h2>
 
 ###
 
