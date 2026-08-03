@@ -3,8 +3,10 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;MERN+%26+PERN+Stack;React+%7C+TypeScript+%7C+Node.js+%7C+Express.js+%7C+Prisma;PostgreSQL+%26+MongoDB;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=1200&lines=Full+Stack+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+Express.js+%7C+Prisma;PostgreSQL+%26+MongoDB;Building+Scalable+Web+Applications" />
 </p>
+
+<!-- MERN+%26+PERN+Stack; -->
 
 ### 
 
