@@ -143,13 +143,19 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
     </tr>
   </table>
  
-  <!-- GitHub Profile Summary -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight&hide_border=true" width="100%" />
-
+  <!-- GitHub Summary -->
+ <table>
+   <tr>
+     <td>
+       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight&hide_border=true" width="100%" />
+     </td>
+   </tr>
+ </table>
 </div>
 
 <!-- ### -->
 
+<!-- GitHub Profile Summary -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <!-- <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=1a1b26&style=for-the-badge" alt="Profile Views" />
