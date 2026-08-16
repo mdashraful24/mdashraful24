@@ -136,15 +136,15 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
       <td align="center" valign="top">
        <img src="https://streak-stats.demolab.com?user=mdashraful24&theme=tokyonight&hide_border=true" width="495" height="195" />
       </td>
-      <!-- Contribution Graph -->
+      <!-- GitHub Summary -->
       <td align="center" valign="top">
-         <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" width="495" height="195" />
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight&hide_border=true" width="495" height="195" />
       </td>
     </tr>
   </table>
  
-  <!-- GitHub Summary -->
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight&hide_border=true" width="100%" />
+  <!-- Contribution Graph -->
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" width="100%" />
 
  <!-- <table>
    <tr width="100%">
