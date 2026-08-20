@@ -227,15 +227,6 @@ Send via Gmail ↗
 <a href="https://wa.me/8801825532252">WhatsApp ↗</a>
 </p>
 
-<!-- <p><strong>📧 Email:</strong>  
-<a href="mailto:mdashrafulislam2882@gmail.com">Default Mail</a> | 
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=new&to=mdashrafulislam2882@gmail.com">
-Gmail</a>
-</p> -->
-<!-- <p><strong>📞 Contact (W):</strong> 
-<a href="https://wa.me/8801825532252">Chat on WhatsApp</a>
-</p> -->
-
 <p align="left">
   Thanks for visiting, and I'd love to connect😊!
 </p>
