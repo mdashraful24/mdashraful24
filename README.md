@@ -146,27 +146,14 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
   <!-- Contribution Graph -->
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" width="100%" />
 
- <!-- <table>
-   <tr width="100%">
-     <td align="center" valign="top">
-       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight&hide_border=true" width="100%" />
-     </td>
-   </tr>
- </table> -->
-
 </div>
 
 <!-- ### -->
 <!-- GitHub Profile Count -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <!-- <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=1a1b26&style=for-the-badge" alt="Profile Views" />
-  <img src="https://komarev.com/ghpvc/?username=mdashraful24&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Profile Views" /> -->
 </div>
 
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=mdashraful24&show_icons=true&theme=dark&count_private=true&hide_border=false" height="150" alt="Ashraful's GitHub Stats"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=mdashraful24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> -->
 </div>
 
 ###
@@ -177,42 +164,6 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ashraful.islam.ratul2k)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ashraful-islam-ratul.netlify.app/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1DNu3hHCbH-zbAUuzqdwR4bgsc_L7ja1I/view?usp=sharing)
-<!-- 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdashraful24)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me) 
--->
-
-
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraful-islam-ratul/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ashraful.islam.ratul2k)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me)
--->
-
-<!-- <div align="center">
-  <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/ashraful.islam.ratul2k" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-</div> -->
-
-<!-- <div align="center">
-  <a href="https://github.com/mdashraful24" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="52" height="40" alt="github logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ashraful-islam-ratul/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/share/19n28FG9HV/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div> -->
-
 
 <!-- Location -->
 <p><strong>📍 Location:</strong> Dhaka, Bangladesh</p>
