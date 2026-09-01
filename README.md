@@ -35,15 +35,6 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
 🌍 Fun Fact: I love traveling and exploring new places
 </p>
 
-<!--- 👨‍💻 Frontend Web Developer (React.js) | MERN Stack Developer
-🎓 B.Sc. Engineer (New Graduate)
-🚀 Focused on building scalable, responsive, and user-friendly web applications
-<br> 🎓 B.Sc. Engineer
-📚 I'm currently learning the Next.js framework. --->
-
-<!--[![Ratul Profile Views](https://github.com/mdashraful24/mdashraful24-profile-views/blob/master/svg/profile/badge.svg)](https://github.com/mdashraful24/mdashraful24-profile-views)
-[![Metrics](https://github.com/mdashraful24/mdashraful24/actions/workflows/metrics.yml/badge.svg)](https://github.com/mdashraful24/mdashraful24/actions/workflows/metrics.yml)-->
-
 ###
 
 <h2 align="center">📚 Current Activities</h2>
