@@ -98,39 +98,46 @@ I enjoy building scalable, responsive, and user-friendly web applications that b
 ###
 
 <div align="center">
+  
   <table>
-    <tr>
-      <!-- Top Languages -->
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=tokyonight&hide_border=true" width="495" height="195" />
-      </td>
-      <!-- GitHub Stats -->
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mdashraful24&show_icons=true&theme=tokyonight&hide_border=true" width="495" height="195" />
-      </td>
-    </tr>
-  </table>
-  
-  <!-- GitHub Stats -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mdashraful24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
-  
-  
-  <!-- GitHub Streak -->
-  <!-- <img src="https://streak-stats.demolab.com/?user=mdashraful24&theme=dark&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdashraful24&theme=tokyonight&hide_border=true" height="150" /> -->
+  <tr>
+    <td align="center" valign="top">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=mdashraful24&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&cache_seconds=1800"
+        width="495"
+        height="195"
+      />
+    </td>
+<!-- - -->
+    <td align="center" valign="top">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=mdashraful24&theme=tokyonight&hide_border=true&cache_seconds=1800"
+        width="495"
+        height="195"
+      />
+    </td>
+  </tr>
+</table>
 
-  <table>
-    <tr>
-      <!-- GitHub Streak -->
-      <td align="center" valign="top">
-       <img src="https://streak-stats.demolab.com?user=mdashraful24&theme=tokyonight&hide_border=true" width="495" height="195" />
-      </td>
-      <!-- GitHub Summary -->
-      <td align="center" valign="top">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight&hide_border=true" width="495" height="195" />
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=mdashraful24&layout=compact&theme=tokyonight&hide_border=true&card_width=390&langs_count=8&cache_seconds=1800"
+        width="495"
+        height="195"
+      />
+    </td>
+<!-- - -->
+    <td align="center" valign="middle">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdashraful24&theme=tokyonight"
+        width="495"
+        height="195"
+      />
+    </td>
+  </tr>
+</table>
  
   <!-- Contribution Graph -->
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdashraful24&theme=tokyo-night&hide_border=true" width="100%" />
